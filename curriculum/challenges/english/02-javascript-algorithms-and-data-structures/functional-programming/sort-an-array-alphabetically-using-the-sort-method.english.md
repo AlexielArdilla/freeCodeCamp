@@ -60,6 +60,7 @@ alphabeticalOrder(["a", "d", "c", "a", "z", "g"]);
 <section id='solution'>
 
 ```js
-// solution required
+Just let alp= arr.sort(); //without inner function will suffice!!!
+return alp;
 ```
 </section>
